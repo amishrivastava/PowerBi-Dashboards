@@ -9,9 +9,7 @@ In this repository, you will find a variety of Power BI projects that demonstrat
 
 The repository is organized into the following folders:
 
-- `Project1`: Description of the first project and its purpose.
-- `Project2`: Description of the second project and its purpose.
-- `Project3`: Description of the third project and its purpose.
+- `Protein Cost Barchart`: This data set visualises how much 20 grams of protein costs in various products. The bar chart can be flitered through the slicer to show vegan and vegetarian options. 
 - ...
 
 Feel free to explore each project folder to view the associated Power BI dashboard files and any additional documentation or materials related to the project.
